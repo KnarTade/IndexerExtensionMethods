@@ -12,3 +12,4 @@ C:\Users\Knar\source\repos\Indexer\obj\Debug\net8.0\refint\Indexer.dll
 C:\Users\Knar\source\repos\Indexer\obj\Debug\net8.0\Indexer.pdb
 C:\Users\Knar\source\repos\Indexer\obj\Debug\net8.0\Indexer.genruntimeconfig.cache
 C:\Users\Knar\source\repos\Indexer\obj\Debug\net8.0\ref\Indexer.dll
+C:\Users\Knar\source\repos\Indexer\obj\Debug\net8.0\Indexer.sourcelink.json

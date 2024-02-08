@@ -1,4 +1,6 @@
-﻿namespace Indexer
+﻿using System.Text;
+
+namespace Indexer
 {
     public  class Program
     {
@@ -25,9 +27,10 @@
             //bool bo = str.IsPolindrome();
             //Console.WriteLine(bo);
 
-            //Console.WriteLine("Write number");
-            //string x  = Console.ReadLine();
-            //StringBuilder stringBuilder = new StringBuilder(x);
+            Console.WriteLine("Write number");
+            string x = Console.ReadLine();
+            StringBuilder stringBuilder = new StringBuilder(x);
+            Console.WriteLine(stringBuilder.IsSimpleNumber());
         }
     }
 }
